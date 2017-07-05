@@ -258,7 +258,6 @@ Imagine you have 10 callbacks, your code will nested 10 times.
 Let's look at the promise version of the same example.
 
 ```javascript
-Promises come in to rescue. Let's look at the promise version of the same example.
 
 // add two numbers remotely using observable
 
